@@ -36,5 +36,16 @@ jobs:
           plugin_music_limit: 4                   # Limit to 4 entries
           plugin_music_playlist: <iframe src="https://open.spotify.com/embed/playlist/4FEjZLM75QEH8Jao3KGjBy" width="300" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe> # Use extracted playlist link
                                             #   (plugin_music_provider and plugin_music_mode will be set automati
-
+      - name: 📌 Topics plugin (mastered)
+        if: ${{ success() || failure() }}
+        uses: lowlighter/metrics@master
+        with:
+          filename: metrics.plugin.topics.mastered.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          base: ""
+          plugin_topics: yes
+          plugin_topics_limit: 0
+          plugin_topics_mode: mastered
+          plugins_errors_fatal: ${{ github.repository == 'Mehak-Mehta' }}
+          output_action: pull-request
 
