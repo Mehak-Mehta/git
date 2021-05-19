@@ -48,4 +48,3 @@ jobs:
           plugin_topics_mode: mastered
           plugins_errors_fatal: ${{ github.repository == 'Mehak-Mehta' }}
           output_action: pull-request
-
