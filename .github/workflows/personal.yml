@@ -54,7 +54,7 @@ jobs:
           token: ${{ secrets.METRICS_TOKEN }}
           base: ""
           plugin_achievements: yes
-          plugin_achievements_threshold: A      # Display achievements with rank B or higher
+          plugin_achievements_threshold: B      # Display achievements with rank B or higher
           plugin_achievements_secrets: yes       # Display unlocked secrets achievements
           plugin_achievements_ignored: ""  # Hide octonaut achievement
           plugin_achievements_limit: 0   
@@ -69,6 +69,7 @@ jobs:
           plugin_music_provider: spotify
           plugin_music_limit: 4                   # Limit to 4 entries
           plugin_music_playlist: https://open.spotify.com/playlist/33pd4jh5Bz8gpyLDiUr4EZ?si=7d4f1fc77eb54537
+          
       - name: habits
         if: ${{ success() || failure() }}
         uses: lowlighter/metrics@master
@@ -81,6 +82,7 @@ jobs:
          plugin_habits_facts: yes      # Display facts section
          plugin_habits_charts: yes     # Display charts section
          config_timezone: Asia/Kolkata # Set timezone
+         
       - name: topics
         uses: lowlighter/metrics@latest
         with:
