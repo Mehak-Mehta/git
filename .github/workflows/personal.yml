@@ -80,4 +80,11 @@ jobs:
          plugin_habits_facts: yes      # Display facts section
          plugin_habits_charts: yes     # Display charts section
          config_timezone: Asia/Kolkata # Set timezone
-
+      - name: topics
+        uses: lowlighter/metrics@latest
+        with:
+         filename: metrics.personal.habits.svg
+         plugin_topics: yes
+         plugin_topics_sort: stars    # Sort by most starred topics
+         plugin_topics_mode: mastered # Display icons instead of labels
+         plugin_topics_limit: 0       # Disable limitations
