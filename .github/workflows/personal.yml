@@ -85,12 +85,15 @@ jobs:
          plugin_habits_charts: yes     # Display charts section
          config_timezone: Asia/Kolkata # Set timezone
          
-      - name: topics
-        uses: lowlighter/metrics@latest
+      - name: 📌 Topics plugin (mastered)
+        if: ${{ success() || failure() }}
+        uses: lowlighter/metrics@master
         with:
-         filename: metrics.personal.topics.svg
-         token: ${{ secrets.METRICS_TOKEN }}
-         plugin_topics: yes
-         plugin_topics_sort: stars    # Sort by most starred topics
-         plugin_topics_mode: mastered # Display icons instead of labels
-         plugin_topics_limit: 0       # Disable limitations
+          filename: metrics.plugin.topics.masteredd.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          base: ""
+          plugin_topics: yes
+          plugin_topics_limit: 0
+          plugin_topics_mode: mastered
+          plugins_errors_fatal: ${{ github.repository == 'Mehak-Mehta/Mehak-Mehta' }}
+          output_action: pull-request
