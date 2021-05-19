@@ -74,6 +74,7 @@ jobs:
         uses: lowlighter/metrics@master
         with:
          filename: metrics.personal.habits.svg
+         token: ${{ secrets.METRICS_TOKEN }}
          plugin_habits: yes
          plugin_habits_from: 200       # Use 200 events to compute habits
          plugin_habits_days: 14        # Keep only events from last 14 days
@@ -83,7 +84,8 @@ jobs:
       - name: topics
         uses: lowlighter/metrics@latest
         with:
-         filename: metrics.personal.habits.svg
+         filename: metrics.personal.topics.svg
+         token: ${{ secrets.METRICS_TOKEN }}
          plugin_topics: yes
          plugin_topics_sort: stars    # Sort by most starred topics
          plugin_topics_mode: mastered # Display icons instead of labels
