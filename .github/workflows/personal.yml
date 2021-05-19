@@ -65,13 +65,13 @@ jobs:
         if: ${{ success() || failure() }}
         uses: lowlighter/metrics@master
         with:
-          filename: metrics.personal.mu.svg
+          filename: metrics.personal.m.svg
           token: ${{ secrets.METRICS_TOKEN }}
           base: ""
           plugin_music: yes
           plugin_music_provider: spotify
           plugin_music_limit: 4                   # Limit to 4 entries
-          plugin_music_playlist: https://open.spotify.com/playlist/33pd4jh5Bz8gpyLDiUr4EZ?si=7d4f1fc77eb54537
+          plugin_music_playlist: <iframe src="https://open.spotify.com/embed/playlist/4FEjZLM75QEH8Jao3KGjBy" width="300" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
           
       - name: habits
         if: ${{ success() || failure() }}
