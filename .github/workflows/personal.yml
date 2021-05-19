@@ -36,8 +36,7 @@ jobs:
           plugin_music_user: Light
           plugin_music_provider: spotify
           plugin_music_limit: 4                   # Limit to 4 entries
-          plugin_music_playlist: <iframe src="https://open.spotify.com/embed/track/0uukw2CgEIApv4IWAjXrBC" width="300" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
-
+          plugin_music_playlist: "https://open.spotify.com/embed/playlist/4FEjZLM75QEH8Jao3KGjBy"
          
           
       - name: 📌 Topics plugin (mastered)
