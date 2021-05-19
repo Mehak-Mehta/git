@@ -69,4 +69,13 @@ jobs:
           plugin_music_provider: spotify
           plugin_music_limit: 4                   # Limit to 4 entries
           plugin_music_playlist: https://open.spotify.com/playlist/33pd4jh5Bz8gpyLDiUr4EZ?si=7d4f1fc77eb54537
-      
+      - name: habits
+        with:
+         filename: metrics.personal.habits.svg
+         plugin_habits: yes
+         plugin_habits_from: 200       # Use 200 events to compute habits
+         plugin_habits_days: 14        # Keep only events from last 14 days
+         plugin_habits_facts: yes      # Display facts section
+         plugin_habits_charts: yes     # Display charts section
+         config_timezone: Asia/Kolkata # Set timezone
+
