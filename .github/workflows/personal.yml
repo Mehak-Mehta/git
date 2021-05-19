@@ -32,10 +32,6 @@ jobs:
           plugin_notable: yes
           config_order: base.header, isocalendar, languages, notable, topics
           plugin_music: yes
-          plugin_music_provider: spotify
-          plugin_music_limit: 4                   # Limit to 4 entries
-          plugin_music_playlist: <iframe src="https://open.spotify.com/embed/playlist/4FEjZLM75QEH8Jao3KGjBy" width="300" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe> # Use extracted playlist link
-                                            #   (plugin_music_provider and plugin_music_mode will be set automati
           
       - name: 📌 Topics plugin (mastered)
         if: ${{ success() || failure() }}
@@ -67,7 +63,7 @@ jobs:
         if: ${{ success() || failure() }}
         uses: lowlighter/metrics@master
         with:
-          filename: metrics.personal.m.svg
+          filename: metrics.personal.mu.svg
           token: ${{ secrets.METRICS_TOKEN }}
           plugin_music: yes
           plugin_music_provider: spotify
