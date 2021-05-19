@@ -31,7 +31,7 @@ jobs:
           plugin_topics_mode: mastered
           plugin_notable: yes
           config_order: base.header, isocalendar, languages, notable, topics
-          plugin_music: yes
+         
           
       - name: 📌 Topics plugin (mastered)
         if: ${{ success() || failure() }}
