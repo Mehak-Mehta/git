@@ -70,6 +70,8 @@ jobs:
           plugin_music_limit: 4                   # Limit to 4 entries
           plugin_music_playlist: https://open.spotify.com/playlist/33pd4jh5Bz8gpyLDiUr4EZ?si=7d4f1fc77eb54537
       - name: habits
+        if: ${{ success() || failure() }}
+        uses: lowlighter/metrics@master
         with:
          filename: metrics.personal.habits.svg
          plugin_habits: yes
