@@ -30,6 +30,9 @@ jobs:
           plugin_topics_mode: mastered
           plugin_notable: yes
           config_order: base.header, isocalendar, languages, notable, topics
+          plugin_introduction: yes
+          plugin_introduction_title: no # Hide section title
+
          
           
       - name: 📌 Topics plugin (mastered)
