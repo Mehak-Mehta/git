@@ -100,3 +100,12 @@ jobs:
           plugin_topics_mode: mastered
           plugins_errors_fatal: ${{ github.repository == 'Mehak-Mehta/Mehak-Mehta' }}
           output_action: pull-request
+          
+      - name: 📌 plugin lines (mastered)
+        if: ${{ success() || failure() }}
+        uses: lowlighter/metrics@master
+        with:
+          filename: metrics.plugin.lines.masteredd.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          base: ""
+          plugin_lines: yes
