@@ -52,14 +52,13 @@ jobs:
         if: ${{ success() || failure() }}
         uses: lowlighter/metrics@master
         with:
-          filename: metrics.personal.aci.svg
+          filename: metrics.personal.active.svg
           token: ${{ secrets.METRICS_TOKEN }}
           base: ""
-          plugin_achievements: yes
-          plugin_achievements_threshold: C      # Display achievements with rank B or higher
-          plugin_achievements_secrets: yes       # Display unlocked secrets achievements
-          plugin_achievements_ignored: ""  # Hide octonaut achievement
-          plugin_achievements_limit: 0   
+          plugin_activity: yes
+          plugin_activity_limit: 5    # Limit to 5 events
+          plugin_activity_days: 14    # Keep only events from last 14 days (can be set to 0 to disable limitations)
+          plugin_activity_filter: all # Show all events (use table above to filter events types)
           
       - name: 📌 music (mastered)
         if: ${{ success() || failure() }}
