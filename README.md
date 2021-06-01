@@ -15,11 +15,11 @@
 </h6>
 
 - <div>
-  <h6><a href=""> vsinterest</a> : vscode extension to find github repos of similar interest</h6>
+  <h6><a href="https://github.com/Mehak-Mehta/VSInterest"> vsinterest</a> : vscode extension to find github repos of similar interest</h6>
 </div>
 
 - <div>
-  <h6><a href=""> Express.js Api</a> : Express.js api with mongoDB</h6>
+  <h6><a href="https://github.com/Mehak-Mehta/Express.js-API"> Express.js Api</a> : Express.js api with mongoDB</h6>
 </div>
 
 <h6> Working on : </h6>
