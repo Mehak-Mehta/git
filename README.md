@@ -1,6 +1,8 @@
 <h5 align ="left">A little about me :</h5>
-<h6> Hi, I am Mehak Mehta! I am a student and I like to build/break stuff.</h6>
-[<img align="right" width="400" alt="🦑" src="https://github.com/Mehak-Mehta/Mehak-Mehta/blob/main/metrics.svg">]
+<h6> Hi, I am Mehak Mehta! I am a student and I have deleted more code than I have written. Plus (not to mention) I like anime and emo punk rock. Find me on <a href=""> stackoverflow</a> and <a href="">codepen</a> (I don't have any socials). I like contributing to open source so I am down for any open source projects/collabs :) 
+  
+  Current interest are in :  
+   - <a href="">TypeScript</a> - <a href="">React native</a> -  <a href="">Github actions</a> -  <a href="">Prisma</a></h6> 
 
 [<img align="left" width="400" alt="🦑" src="https://github.com/Mehak-Mehta/Mehak-Mehta/blob/main/metrics.svg">](https://github.com/Mehak-Mehta/Mehak-Mehta)
 [<img  width="400" alt="🦑" src= "https://github.com/Mehak-Mehta/Mehak-Mehta/blob/main/metrics.plugin.music.masteredd.svg">](https://github.com/Mehak-Mehta/Mehak-Mehta)
