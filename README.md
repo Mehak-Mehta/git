@@ -1,5 +1,5 @@
 <h5 align ="left">A little about me :</h5>
-<h6 class = "styleing"> Hi, I am Mehak Mehta! I am a student and I have deleted more code than I have written. Plus (not to mention) I like anime and emo punk rock. Find me on <a href="https://stackoverflow.com/users/15813824/mehakmehta"> stackoverflow</a> and <a href="https://codepen.io/mehak-mehta">codepen</a> (I don't have any socials). I like contributing to open source so I am down for any open source projects/collabs :) 
+<h6 class = "styling"> Hi, I am Mehak Mehta! I am a student and I have deleted more code than I have written. Plus (not to mention) I like anime and emo punk rock. Find me on <a href="https://stackoverflow.com/users/15813824/mehakmehta"> stackoverflow</a> and <a href="https://codepen.io/mehak-mehta">codepen</a> (I don't have any socials). I like contributing to open source so I am down for any open source projects/collabs :) 
   
   Current interest are in :  
    - <a href="https://www.typescriptlang.org">TypeScript</a> - <a href="https://reactnative.dev">React native</a> -  <a href="https://docs.github.com/en/actions">Github actions</a> -  <a href="https://www.prisma.io">Prisma</a></h6> 
