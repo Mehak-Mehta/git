@@ -7,7 +7,7 @@
    - <a href="https://www.typescriptlang.org">TypeScript</a> - <a href="https://reactnative.dev">React native</a> -  <a href="https://docs.github.com/en/actions">Github actions</a> -  <a href="https://www.prisma.io">Prisma</a></h6> 
 
 [<img align="left" width="400" alt="🦑" src="https://github.com/Mehak-Mehta/Mehak-Mehta/blob/main/metrics.svg">](https://github.com/Mehak-Mehta/Mehak-Mehta)
-[<img  width="400" alt="🦑" src= "https://user-images.githubusercontent.com/76558546/120342698-a848b980-c315-11eb-9209-7259a3006425.png">](https://github.com/Mehak-Mehta/Mehak-Mehta)
+
 
 [<img  width="400" alt="🦑" src= "https://github.com/Mehak-Mehta/Mehak-Mehta/blob/main/metrics.plugin.music.masteredd.svg">](https://github.com/Mehak-Mehta/Mehak-Mehta)
 
@@ -17,4 +17,3 @@
 
 [<img align="right-top" width="400" alt="🦑" src= "https://github.com/Mehak-Mehta/Mehak-Mehta/blob/main/metrics.personal.active.svg">](https://github.com/Mehak-Mehta/Mehak-Mehta)
 [<img align="left" width="400" alt="🦑" src= "https://github.com/Mehak-Mehta/Mehak-Mehta/blob/main/metrics.personal.habits.svg">](https://github.com/Mehak-Mehta/Mehak-Mehta)        
-Codepen has the best quotes ever!
