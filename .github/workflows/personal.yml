@@ -11,7 +11,6 @@ jobs:
   github-metrics-personal:
     runs-on: ubuntu-latest
     steps:
-
       - name: 🦑 Personal metrics
         if: ${{ success() || failure() }}
         uses: lowlighter/metrics@latest
