@@ -118,8 +118,7 @@ jobs:
           plugin_music_user: Light
           plugin_music_provider: spotify
           plugin_music_limit: 4                  # Limit to 4 entries
-          plugin_music_playlist: "https://open.spotify.com/embed/playlist/4FEjZLM75QEH8Jao3KGjBy"
-    
+          plugin_music_track: "https://open.spotify.com/embed/track/6s2yqZbiPNPL1B2IeCMsUA"
       - name: 📌 plugin people (mastered)
         if: ${{ success() || failure() }}
         uses: lowlighter/metrics@master
