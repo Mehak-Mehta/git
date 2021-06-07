@@ -15,3 +15,7 @@
 <div><h2>My recent projects: </h2> 
 	- <a href="">vsinterest</a> <strong> : A vscode extension to find github repos of similar interest</strong>
 </div>
+
+<div><h2> Working on: </h2>
+     A <a href="">rust</a> bot.
+</div>
