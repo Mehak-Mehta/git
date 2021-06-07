@@ -1,4 +1,4 @@
-<div align = "center" ><h2>Hey! I am Mehak Mehta</h2><h4> A 14 year old developer from India</h4></div>
+<div align = "center" ><h2>Hey! I am Mehak Mehta</h2><h4> A 14 year old developer from India. She/her</h4></div>
 
 	
 <img align="left" width="400" alt="🦑" src="https://github.com/Mehak-Mehta/Mehak-Mehta/blob/main/metrics.personal.octa.svg">
