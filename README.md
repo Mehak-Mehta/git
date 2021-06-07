@@ -19,3 +19,7 @@
 <div><h2> Working on: </h2>
 	<a href="https://www.rust-lang.org/">Rust</a> , <a href="https://www.prisma.io/">Prisma</a> and <a href="https://graphql.org/">Graphql</a>
 </div>
+
+<div><h2>Find me on:</h2>
+	<a href="light#6192">Stackoverflow</a>, <a href="light#6192">Discord</a> and <a href="light#6192">Codepen</a> (I don't have any socials)
+</div>
