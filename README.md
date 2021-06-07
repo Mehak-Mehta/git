@@ -13,9 +13,9 @@
 <img  align = "right" width="400" alt="🦑" src="https://github.com/Mehak-Mehta/Mehak-Mehta/blob/main/metrics.plugin.anime.masteredd.svg">
 
 <div><h2>My recent projects: </h2> 
-	- <a href="">vsinterest</a> <strong> : A vscode extension to find github repos of similar interest</strong>
+	- <a href="https://github.com/Mehak-Mehta/vsinterest">vsinterest</a> <strong> : A vscode extension to find github repos of similar interest</strong>
 </div>
 
 <div><h2> Working on: </h2>
-     A <a href="">rust</a> bot.
+	<a href="https://www.rust-lang.org/">Rust</a> , <a href="https://www.prisma.io/">Prisma</a> and <a href="https://graphql.org/">Graphql</a>
 </div>
