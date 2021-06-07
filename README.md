@@ -12,5 +12,6 @@
 
 <img  align = "right" width="400" alt="🦑" src="https://github.com/Mehak-Mehta/Mehak-Mehta/blob/main/metrics.plugin.anime.masteredd.svg">
 
-<div>I am currently learning : 
-	- Rust, Prisma</div>
+<div><h2>My recent projects: </h2> 
+	- <a href="">vsinterest</a> <strong> : A vscode extension to find github repos of similar interest</strong>
+</div>
