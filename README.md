@@ -4,8 +4,6 @@
 <img align="left" width="400" alt="🦑" src="https://github.com/Mehak-Mehta/Mehak-Mehta/blob/main/metrics.personal.octa.svg">
 
 
-<div align = "left"><h2> My recent peojects</h2></div>
-
 <img align="left" width="400" alt="🦑" src="https://github.com/Mehak-Mehta/Mehak-Mehta/blob/main/metrics.plugin.langs.masteredd.svg">
 	
 
