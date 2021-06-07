@@ -1,8 +1,11 @@
 <div align = "center" ><h2>Hey! I am Mehak Mehta</h2><h4> A 14 year old developer from India</h4></div>
-<div><div>
+
 	
 <img align="left" width="400" alt="🦑" src="https://github.com/Mehak-Mehta/Mehak-Mehta/blob/main/metrics.personal.octa.svg">
-	
+
+
+<div align = "left"><h2> My recent peojects</h2></div>
+
 <img align="left" width="400" alt="🦑" src="https://github.com/Mehak-Mehta/Mehak-Mehta/blob/main/metrics.plugin.langs.masteredd.svg">
 	
 
