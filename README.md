@@ -23,3 +23,7 @@
 <div><h2>Find me on:</h2>
 	<a href="https://stackoverflow.com/users/15813824/mehakmehta">Stackoverflow</a>, Discord: light#6192 and <a href="https://codepen.io/mehak-mehta">Codepen</a> (I don't have any socials)
 </div>
+
+<div><h2>Discord server?</h2>
+	<a href="https://discord.gg/D42D4ejarZ">Yep</a>
+</div>
