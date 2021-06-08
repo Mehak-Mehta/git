@@ -21,5 +21,5 @@
 </div>
 
 <div><h2>Find me on:</h2>
-	<a href="light#6192">Stackoverflow</a>, <a href="light#6192">Discord</a> and <a href="light#6192">Codepen</a> (I don't have any socials)
+	<a href="https://stackoverflow.com/users/15813824/mehakmehta">Stackoverflow</a>, <a href="light#6192">Discord</a> and <a href="https://codepen.io/mehak-mehta">Codepen</a> (I don't have any socials)
 </div>
