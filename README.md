@@ -1,14 +1,5 @@
 <div align = "center" ><h2>Hey! I am Mehak Mehta</h2><h4> </h4></div>
 
-<div align = "right">
- 
-Recent Projects:
-  
-  - <a href="">vsinterest</a>
-  - <a href="">Rust-lang</a>
-
-</div>
-
 <div align = "left">
   
 Mastered Technologies: 
@@ -31,7 +22,7 @@ Personal Stuff:
 - Music - Emo Punk Rock
 - Fav anime - 91 Days
 - Fav lang - Rust/Typescript
-- She/her
+
 
 </div>
 
