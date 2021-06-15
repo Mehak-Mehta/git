@@ -1,31 +1,24 @@
-<div align = "center" ><h2>Hey! I am Mehak Mehta</h2><h4> A 14 year old developer from India. </h4></div>
+<div align = "center" ><h2>Hey! I am Mehak Mehta</h2><h4> </h4></div>
 
-	
-<img align="left" width="400" alt="🦑" src="https://github.com/Mehak-Mehta/Mehak-Mehta/blob/main/metrics.personal.octa.svg">
+Mastered Technologies: 
 
+- Javascript/Typescript. *Experience - 4 months*
+- Rust. *Experience - 1 months*
+- Python. *Experience - 6 months*
+- GraphQL. *Experience - 4 months*
 
-<img align="left" width="400" alt="🦑" src="https://github.com/Mehak-Mehta/Mehak-Mehta/blob/main/metrics.plugin.langs.masteredd.svg">
-	
+Related Stuff:
 
-[<img  width="400" align="left" alt="🦑" src= "https://github.com/Mehak-Mehta/Mehak-Mehta/blob/main/metrics.plugin.music.masteredd.svg">](https://open.spotify.com/playlist/7ETUYyrVuH9rQIc9Iy9vFY?utm_source=embed_v2&go=1&play=1&nd=1)
-	
+- Text editor - VSCode/Vim
+- Started this journey in - October 2020
+- First lang - Python
+- Recent lang - Rust
 
-<img  align = "right" width="400" alt="🦑" src="https://github.com/Mehak-Mehta/Mehak-Mehta/blob/main/metrics.plugin.anime.masteredd.svg">
+Personal Stuff:
 
-<div><h2>My recent projects: </h2> 
-	- <a href="https://github.com/Mehak-Mehta/vsinterest">vsinterest</a> <strong> : A vscode extension to find github repos of similar interest</strong>
-</div>
+- Music - Emo Punk Rock
+- Fav anime - 91 Days
+- Fav lang - Rust/Typescript
+- She/her
 
-<div><h2> Working on: </h2>
-	<a href="https://www.rust-lang.org/">Rust</a> , <a href="https://www.prisma.io/">Prisma</a> and <a href="https://graphql.org/">Graphql</a>
-</div>
-
-<div><h2>Find me on:</h2>
-	<a href="https://stackoverflow.com/users/15813824/mehakmehta">Stackoverflow</a> <a href="https://codepen.io/mehak-mehta">Codepen</a>
-</div>
-
-
-https://user-images.githubusercontent.com/76558546/121334814-a2675f80-c937-11eb-86db-279266a61dfc.mp4
-
-![](https://komarev.com/ghpvc/?username=Mehak-Mehta&style=flat-square)
 
