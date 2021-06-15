@@ -6,6 +6,7 @@ Mastered Technologies:
 - Rust. *Experience - 1 months*
 - Python. *Experience - 6 months*
 - GraphQL. *Experience - 4 months*
+- Express.js/React.js/Nest.js/MongoDB. *Experience - 4 months*
 
 Related Stuff:
 
