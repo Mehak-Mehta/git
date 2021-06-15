@@ -1,5 +1,16 @@
 <div align = "center" ><h2>Hey! I am Mehak Mehta</h2><h4> </h4></div>
 
+<div align = "right">
+ 
+Recent Projects:
+  
+  - <a href="">vsinterest</a>
+  - <a href="">Rust-lang</a>
+
+</div>
+
+<div align = "left">
+  
 Mastered Technologies: 
 
 - Javascript/Typescript. *Experience - 4 months*
@@ -21,4 +32,6 @@ Personal Stuff:
 - Fav anime - 91 Days
 - Fav lang - Rust/Typescript
 - She/her
+
+</div>
 
