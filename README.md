@@ -22,4 +22,4 @@ Personal Stuff:
 - Fav lang - Rust/Typescript
 - She/her
 
-
+<img align="right" width="400" alt="🦑" src="https://github.com/Mehak-Mehta/git/blob/main/metrics.personal.octa.svg">
