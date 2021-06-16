@@ -21,6 +21,8 @@ jobs:
           base: header
           template: classic
           plugin_isocalendar: yes
+          plugin_introduction: yes
+          plugin_introduction_title: no
 
           
       - name: 📌 Topics plugin (mastered)
