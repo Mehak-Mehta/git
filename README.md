@@ -1,4 +1,4 @@
-<div align = "center" ><h2>Hey! I am Mehak Mehta</h2><h4> </h4></div>  
+<div align = "center" ><h2>Hey! I am Mehak Mehta</h2><h4> I am a bland person, I like to keep things simple </h4></div>  
 
 <h5 align="left"> 
   
