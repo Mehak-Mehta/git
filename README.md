@@ -1,19 +1,5 @@
 <div align = "center" ><h2>Hey! I am Mehak Mehta</h2><h4> </h4></div>  
 
-<h5 align="right"> 
-  
-  Working on:
-  
-  Xml Parser written in TypeScript
-  
-  Recent projects: 
-  
-  vsinterest
-  
-  Apollo GraphQL Server
-</h5>
-
-
 <h5 align="left"> 
   
 Mastered Technologies:                                                  
@@ -27,7 +13,21 @@ Mastered Technologies:
 - GraphQL. *Experience - 4 months*
   
 - Express.js/React.js/Nest.js/MongoDB. *Experience - 4 months*
+  
+  
+Working on:
+ 
+ - Xml Parser written in Typescript
 
+Recent Projects:
+  - <a href="">vsinterest</a>
+  
+  - <a href="">Nest GraphQL Server</a>
+  
+  - <a href="">Apollo GraphQL Server</a>
+  
+  
+  
 Related Stuff:
 
 - Text editor - VSCode/Vim
