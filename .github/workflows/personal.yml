@@ -33,10 +33,10 @@ jobs:
         with:
           filename: metrics.plugin.topics.mastered.svg
           token: ${{ secrets.METRICS_TOKEN }}
+          template: repository
+          repo: vsinterest
           base: ""
-          plugin_topics: yes
-          plugin_topics_limit: 0
-          plugin_topics_mode: mastered
+          plugin_introduction: yes
           plugins_errors_fatal: ${{ github.repository == 'Mehak-Mehta' }}
           output_action: pull-request
           
