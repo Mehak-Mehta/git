@@ -1,7 +1,5 @@
 <div align = "center" ><h2>Hey! I am Mehak Mehta</h2><h4> I am a bland person, I like to keep things simple </h4></div>  
 
-
-<img align="right" width= 490 src="https://github.com/Mehak-Mehta/Mehak-Mehta/blob/main/metrics.svg">
 <h5 align="left"> 
   
 Mastered Technologies:                                                  
