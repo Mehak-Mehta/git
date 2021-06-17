@@ -38,7 +38,7 @@ Related Stuff:
   
 - First lang - Python
   
-- Recent lang - Rust
+- Recent lang - Xml
 
 Personal Stuff:
 
