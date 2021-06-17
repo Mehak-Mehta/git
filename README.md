@@ -1,3 +1,4 @@
+
 <div align = "center" ><h2>Hey! I am Mehak Mehta</h2><h4> I am a bland person, I like to keep things simple </h4></div>  
 
 <h5 align="left"> 
@@ -42,8 +43,7 @@ Personal Stuff:
 
 - Music - Emo Punk Rock
   
-- Fav anime - 91 Days
-  
+- Fav anime - 91 Days         <img width="200" align="right" src="https://user-images.githubusercontent.com/76558546/122430646-683e3380-cfb1-11eb-8806-69cff46863ae.png">
 - Fav lang - Rust/Typescript
   
 </h5>
