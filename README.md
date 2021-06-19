@@ -1,7 +1,11 @@
 
 <div align = "center" ><h2>Hey! I am Mehak Mehta</h2><h4> I am a bland person, I like to keep things simple </h4></div>  
 
-<img align="right" src="https://github.com/Mehak-Mehta/Mehak-Mehta/blob/main/metrics.plugin.anime.masteredd.svg">
+<img  width="450" align="right" src="https://github.com/Mehak-Mehta/Mehak-Mehta/blob/main/metrics.plugin.anime.masteredd.svg">
+
+<img align="right" src="https://github.com/Mehak-Mehta/Mehak-Mehta/blob/main/metrics.plugin.music.masteredd.svg">
+
+
 
 <h5 align="left"> 
   
