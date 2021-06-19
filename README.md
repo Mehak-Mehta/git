@@ -24,11 +24,11 @@ Mastered Technologies:
  
 
 Recent Projects:
-  - <a href="">vsinterest</a>
+  - <a href="https://github.com/Mehak-Mehta/vsinterest">vsinterest</a>
   
-  - <a href="">Nest GraphQL Server</a>
+  - <a href="https://github.com/Mehak-Mehta/Nest-GraphQL-Server">Nest GraphQL Server</a>
   
-  - <a href="">Apollo GraphQL Server</a>
+  - <a href="https://github.com/Mehak-Mehta/Apollo-GraphQL-Server">Apollo GraphQL Server</a>
   
   
   
