@@ -3,7 +3,7 @@
 
 <img  width="450" align="right" src="https://github.com/Mehak-Mehta/Mehak-Mehta/blob/main/metrics.plugin.anime.masteredd.svg">
 
-<img align="right" src="https://github.com/Mehak-Mehta/Mehak-Mehta/blob/main/metrics.plugin.music.masteredd.svg">
+<img  align="right" src="https://github.com/Mehak-Mehta/Mehak-Mehta/blob/main/metrics.plugin.music.masteredd.svg">
 
 
 
