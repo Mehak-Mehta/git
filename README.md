@@ -15,10 +15,7 @@ Mastered Technologies:
   
 - Express.js/React.js/Nest.js/MongoDB. *Experience - 4 months*
   
-  
-Working on:
  
- - Xml Parser written in Typescript
 
 Recent Projects:
   - <a href="">vsinterest</a>
