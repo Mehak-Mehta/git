@@ -1,5 +1,5 @@
 <div><h2>Hey! I am Mehak Mehta</h2>
-  <h4>"I created sins filled with the past in order to remain as myself" -Anglo Lagusa (91 days)</h4>
+  <h4>"I created sins filled with the past in order to remain as myself" -Angelo Lagusa (91 days)</h4>
 </div>
 
 <div><h3>My projects:</h3>
