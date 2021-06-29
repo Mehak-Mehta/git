@@ -1,6 +1,6 @@
 <div>Hey! I am Mehak Mehta</div>
  
-  "I created sins filled with the past in order to remain as myself"."Even my memories were created with an external knife" - Angelo Lagusa (91 days)
+  "I created sins filled with the past in order to remain as myself" - Angelo Lagusa (91 days)
   
 <div> About me:
   
